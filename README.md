@@ -38,3 +38,6 @@ WebIDE相关文档：https://coding.net/help/doc/webide/index.html
 我们已经为您配置好，在演示平台中只需点击一键部署。稍等片刻待部署完成后，通过域名即可访问。
 
 演示平台相关文档：https://coding.net/help/doc/paas/index.html
+
+
+one push sycn coding and github 
